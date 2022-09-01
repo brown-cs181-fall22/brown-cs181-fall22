@@ -8,7 +8,7 @@ links: []
 ---
 
 ### Essential Background Reading
-- [Molecular biology primer](./info/bioprimer.pdf) for computer science students
+- [Molecular biology primer](./quicklinks/bioprimer.pdf) for computer science students
 - [Probability and statistics primer](resources/stats_primer.pdf)
 - [Short Python Primer](https://docs.google.com/presentation/d/1FMxC25lMti8vPowQQuw1HgdwmVns6QLrAcvHuj6vJVI/edit#slide=id.p)
 - [More extensive Python primer](resources/Python_Primer.pdf)

@@ -70,7 +70,7 @@ Each chapter is devoted to a class of basic computational problems related to th
 <details>
   <summary>What computer science and mathematics background is needed?</summary>
 
-  Officially, one of CS16, CS18, or CS19 (i.e. a yearlong introduction to computer science). This can be waived by the instructor (especially for life science students). Students in the course generally have some prior exposure to basic concepts of discrete math (graphs, recurrence relations), discrete probability (random variables, independence), and algorithms (big-O notation, pseudocode).
+  Officially, one of CS16, CS18, CS200, or CS19 (i.e. a yearlong introduction to computer science). This can be waived by the instructor (especially for life science students). Students in the course generally have some prior exposure to basic concepts of discrete math (graphs, recurrence relations), discrete probability (random variables, independence), and algorithms (big-O notation, pseudocode).
 </details>
 
 <details>
