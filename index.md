@@ -7,7 +7,7 @@ link_types: ["QuickLinks"]
 links: [
   {
     "Title" : "Syllabus",
-     "Link" : "https://hackmd.io/eBpkkxSbQtK9N2PcJlc11A",
+     "Link" : "/quicklinks/CSCI1810-Syllabus_2022.pdf",
      "Type" : "QuickLinks"
   },
   {
@@ -22,12 +22,12 @@ links: [
   },
   {
     "Title" : "Gradescope",
-    "Link" : "https://www.gradescope.com/courses/344946",
+    "Link" : "google.com",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "EdStem",
-    "Link" : "https://edstem.org/us/courses/16807/discussion/",
+    "Link" : "google.com",
     "Type" : "QuickLinks"
   },
   {
