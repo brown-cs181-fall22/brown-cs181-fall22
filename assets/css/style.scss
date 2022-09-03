@@ -24,7 +24,10 @@
       flex-wrap: wrap;
       display: flex;
       flex: 0 0 31%;
-      height: 50%;
+
+      @media only screen and (max-width: 600px) {
+        flex: 0 0 40%;
+      }
     }
 
     .staff-wrapper {
@@ -34,22 +37,23 @@
       flex-direction: column;
       flex-wrap: wrap;
       gap: 20px;
-      // overflow: hidden;
+      overflow: hidden;
       transition: 0.2s ease;
 
       .staff-photo {
         position: relative;
-        max-width: 80%;
+        max-width: 100%;
         flex-wrap: wrap;
-        display: flex;
+        display: grid;
         justify-content: center;
         align-items: center;
-        height: 100px;
 
         .staff-img {
-          display: block;
+          // display: block;
+          grid-column: 1; 
+          grid-row: 1;
+          position: relative;
           z-index: 3;
-          position: absolute;
         }
 
         @media only screen and (max-width: 600px) {
@@ -58,8 +62,9 @@
         }
 
         .throwback-img {
+          grid-column: 1; 
+          grid-row: 1;
           z-index: 1;
-          position: absolute;
         }
 
         .staff-image {
