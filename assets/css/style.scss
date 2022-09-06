@@ -112,13 +112,14 @@
 
     .site-nav {
       display: flex;
-      // width: 90px;
+      width: 138px;
       flex-direction: row;
       justify-content: center;
       align-items: center;
-      left: 15px;
+      left: 44px;
       position: absolute;
       z-index: 21;
+      top: 20px;
 
         @media only screen and (max-width: 1020px) {
           position: fixed;
@@ -129,13 +130,14 @@
 
     .nav-trigger {
       width: 100% !important;
+      display: none;
     }
 
     .trigger {
       flex-direction: row;
       justify-content: center;
       align-items: center;
-      gap: 10px;
+      gap: 1px;
 
       @media only screen and (max-width: 1020px) {
         flex-direction: column;
@@ -154,10 +156,11 @@
     border-radius: 10px;
     padding: 5px;
     transition: 0.3s ease;
-    min-width: 80px;
+    min-width: 85px;
+    max-width: 48%; 
 
     &:hover {
-      backdrop-filter: blur(10px);
+      backdrop-filter: hue-rotate(200deg);
     }
 
     .image {
@@ -234,7 +237,6 @@ header {
   @media only screen and (max-width: 600px) {
     margin-top: 70px;
   }
-
 
     .title {
       font-family: 'Coiny', cursive;
@@ -372,6 +374,7 @@ header {
   color: white;
   text-shadow: 2px 2px #5d5d5d;
   z-index: 20;
+  left: 100px;
 
   a {
     color: white; // changes the size of the header text 
@@ -390,7 +393,6 @@ header {
     left: 0px;
     height: 60px;
     width: 100vw;
-    backdrop-filter: blur(10px);
 
     .text {
       right: 20px;
