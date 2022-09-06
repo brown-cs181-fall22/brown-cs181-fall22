@@ -37,6 +37,9 @@ links: [
   },
 ]
 ---
+
+### Course Information
+
 The aim of this course is to provide an introduction to computational molecular biology. The course is organized into six chapters:
 
 1. Sequence Alignment
