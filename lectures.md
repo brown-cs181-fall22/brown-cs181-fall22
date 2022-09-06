@@ -9,6 +9,16 @@ links: []
 
 <!-- # {{ page.title }} -->
 
+### Notes
+
+[hours.cs.brown.edu](hours.cs.brown.edu).
+
+The link to sign up for taking class notes will be here shortly. This is required for participation credit. 
+The link to submit your notes is [here](https://docs.google.com/forms/d/e/1FAIpQLSfyd-iRXC0L3YXgH2DSeQigo2bok12Otz6--Am4loeyn7-3VQ/viewform). 
+The link to the class notes file will be here shortly.
+
+### Videos
+
 If the video isn't linked yet, check Brown Panopto or the Media Library in Canvas.
 
 <!---

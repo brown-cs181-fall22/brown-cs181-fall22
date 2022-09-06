@@ -37,9 +37,6 @@ links: [
   },
 ]
 ---
-notes for harshini  + lizzy: update the link for collab policy after it is updated
-actually update all the links
-
 The aim of this course is to provide an introduction to computational molecular biology. The course is organized into six chapters:
 
 1. Sequence Alignment
