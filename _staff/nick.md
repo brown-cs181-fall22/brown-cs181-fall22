@@ -2,6 +2,6 @@
 name: Nick Liu 
 role: UTA 
 favorite_marine_animal: Orca
-photo: fish.jpg
-throwback_photo: fish.jpg
+photo: nick.jpg
+throwback_photo: nick_alt.jpg
 ---

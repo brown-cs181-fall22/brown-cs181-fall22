@@ -2,6 +2,6 @@
 name: Sorin Istrail
 role: Professor
 favorite_marine_animal: Sea urchin
-photo: fish.jpg
-throwback_photo: fish.jpg
+photo: sorin.png
+throwback_photo: urchin.png
 ---

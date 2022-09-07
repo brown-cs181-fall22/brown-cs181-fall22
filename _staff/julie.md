@@ -2,6 +2,6 @@
 name: Julie Karam
 role: UTA
 favorite_marine_animal: Sea otter
-photo: fish.jpg
-throwback_photo: fish.jpg
+photo: julie.jpg
+throwback_photo: julie_alt.jpg
 ---

@@ -2,6 +2,6 @@
 name: Harshini Venkatachalam
 role: UTA 
 favorite_marine_animal: Harp seal 
-photo: fish.jpg
-throwback_photo: fish.jpg
+photo: harshini.jpg
+throwback_photo: harshini_alt.jpg
 ---

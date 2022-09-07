@@ -2,6 +2,6 @@
 name: Lizzy Zhang
 role: STA 
 favorite_marine_animal: Beluga whale 
-photo: fish.jpg
-throwback_photo: fish.jpg
+photo: lizzy.jpg
+throwback_photo: lizzy_alt.jpg
 ---
