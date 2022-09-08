@@ -8,9 +8,9 @@ body {
     top: 5em;
   }
   /* Fish Animation */
-  /* svg.fish{
-    overflow:hidden;
-  } */
+  svg.fish{
+    overflow: hidden;
+  }
   
   @-webkit-keyframes swim
   {
@@ -30,7 +30,7 @@ body {
       width: 235px;
       height: 104px;
       margin-left: -235px;
-      position: absolute;	
+      position: fixed;	
       animation: swim 20s;
       -webkit-animation: swim 20s;
       animation-iteration-count: infinite;
