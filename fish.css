@@ -4,16 +4,19 @@ body {
   }
 
   .fish-wrapper{
-    overflow:hidden
+    overflow-x: hidden;
+    position: absolute;
+    top: 5em;
+    width: 100%
   }
   
-  svg#fish {
+  /* svg#fish {
     top: 5em;
-  }
+  } */
   /* Fish Animation */
-  svg.fish{
+  /* svg.fish{
     overflow:visible;
-  }
+  } */
   
   @-webkit-keyframes swim
   {
