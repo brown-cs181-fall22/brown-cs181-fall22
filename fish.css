@@ -36,7 +36,7 @@ body {
       width: 235px;
       height: 104px;
       margin-left: -235px;
-      position: absolute;	
+      position: relative;	
       animation: swim 20s;
       -webkit-animation: swim 20s;
       animation-iteration-count: infinite;
