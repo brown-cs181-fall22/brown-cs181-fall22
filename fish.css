@@ -2,6 +2,10 @@ body {
     background: #6ca3a3; 
     /* background: #30c5ff */
   }
+
+  .fish-wrapper{
+    overflow:hidden
+  }
   
   svg#fish {
     top: 5em;

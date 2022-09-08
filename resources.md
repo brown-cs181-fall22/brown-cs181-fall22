@@ -8,7 +8,10 @@ links: []
 ---
 
 ### Essential Background Reading
-- [Molecular biology primer](./quicklinks/bioprimer.pdf) for computer science students
+- Molecular biology resources for computer science students
+    - [Introduction to DNA transcription, RNA transcription, and translation](https://www.khanacademy.org/science/biology/gene-expression-central-dogma/central-dogma-transcription/v/rna-transcription-and-translation)
+    - [Introduction to Proteins](https://bio.libretexts.org/Bookshelves/Biochemistry/Book%3A_Biochemistry_Free_For_All_(Ahern_Rajagopal_and_Tan)/02%3A_Structure_and_Function/203%3A_Structure__Function-_Proteins_I) (read introduction and "Levels of Structure")
+    - [More extensive molecular biology primer](./quicklinks/bioprimer.pdf)
 - [Probability and statistics primer](resources/stats_primer.pdf)
 - [Short Python Primer](https://docs.google.com/presentation/d/1FMxC25lMti8vPowQQuw1HgdwmVns6QLrAcvHuj6vJVI/edit#slide=id.p)
 - [More extensive Python primer](resources/Python_Primer.pdf)
