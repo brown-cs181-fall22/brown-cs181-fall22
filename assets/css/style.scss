@@ -26,7 +26,7 @@
       flex: 0 0 31%;
 
       @media only screen and (max-width: 600px) {
-        flex: 0 0 40%;
+        flex: 0 0 45%;
       }
     }
 
@@ -398,4 +398,9 @@ header {
       position: relative;
     }
   }
+}
+
+.calendar {
+  display: flex;
+  align-items: center
 }

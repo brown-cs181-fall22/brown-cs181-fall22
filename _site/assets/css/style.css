@@ -229,7 +229,7 @@ table td { border: 1px solid #e8e8e8; }
 /** STAFF PAGE STYLING **/
 .uta-container { display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; }
 .uta-container .staff { width: fit-content; flex-wrap: wrap; display: flex; flex: 0 0 31%; }
-@media only screen and (max-width: 600px) { .uta-container .staff { flex: 0 0 40%; } }
+@media only screen and (max-width: 600px) { .uta-container .staff { flex: 0 0 45%; } }
 .uta-container .staff-wrapper { width: fit-content; height: fit-content; display: flex; flex-direction: column; flex-wrap: wrap; gap: 20px; overflow: hidden; transition: 0.2s ease; }
 .uta-container .staff-wrapper .staff-photo { position: relative; max-width: 100%; flex-wrap: wrap; display: grid; justify-content: center; align-items: center; }
 .uta-container .staff-wrapper .staff-photo .staff-img { grid-column: 1; grid-row: 1; position: relative; z-index: 3; }
@@ -284,3 +284,5 @@ header { font-family: 'Coiny'; height: 25px; }
 .header a { color: white; text-transform: none; text-decoration: none; }
 @media only screen and (max-width: 600px) { .header { font-size: 2rem; display: flex; justify-content: flex-end; align-items: center; position: fixed; margin-top: 0px !important; top: 0px; left: 0px; height: 60px; width: 100vw; }
   .header .text { right: 20px; position: relative; } }
+
+.calendar { display: flex; align-items: center; }
