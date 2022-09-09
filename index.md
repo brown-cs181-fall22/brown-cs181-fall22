@@ -12,27 +12,27 @@ links: [
   },
   {
     "Title" : "Collaboration Policy",
-    "Link" : "google.com",
+    "Link" : "/quicklinks/collabpolicy.pdf",
     "Type" : "QuickLinks"
   },
-  {
-    "Title" : "Accomodations",
-    "Link" : "google.com",
-    "Type" : "QuickLinks"
-  },
+  # {
+  #   "Title" : "Accomodations",
+  #   "Link" : "google.com",
+  #   "Type" : "QuickLinks"
+  # },
   {
     "Title" : "Gradescope",
-    "Link" : "google.com",
+    "Link" : "https://www.gradescope.com/courses/407001",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "EdStem",
-    "Link" : "google.com",
+    "Link" : "https://edstem.org/us/courses/28645/discussion/",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Anonymous Feedback Form",
-    "Link" : "google.com",
+    "Link" : "https://docs.google.com/forms/d/e/1FAIpQLSfyjTlAleSI7b_Cx87DQw_n5W8pBCiuPVQXbpuESeOvb4wamg/viewform",
     "Type" : "QuickLinks"
   },
 ]
