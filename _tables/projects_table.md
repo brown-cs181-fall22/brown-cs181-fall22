@@ -4,7 +4,8 @@ contents: [
    {
     "Project" : [{"Project 0: Warmup": "/assignments/CS1810_PR0_2022.pdf"}],
     "Out" : ["9/9/22"],
-    "In" : ["9/22/22"]
+    "In" : ["9/22/22"],
+    "Support Files" : [{"files": "/assignments/zipped_files/cs181-warmup-2022.zip"}]
    },
    {
     "Project" : ["Project 1: Alignment"],
