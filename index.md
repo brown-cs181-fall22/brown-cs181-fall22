@@ -15,11 +15,11 @@ links: [
     "Link" : "/quicklinks/collabpolicy.pdf",
     "Type" : "QuickLinks"
   },
-  # {
-  #   "Title" : "Accomodations",
-  #   "Link" : "google.com",
-  #   "Type" : "QuickLinks"
-  # },
+  {
+    "Title" : "Late Policy",
+    "Link" : "/quicklinks/latepolicy.pdf",
+    "Type" : "QuickLinks"
+  },
   {
     "Title" : "Gradescope",
     "Link" : "https://www.gradescope.com/courses/407001",
