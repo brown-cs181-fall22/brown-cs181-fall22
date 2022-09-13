@@ -7,6 +7,12 @@ contents: [
   "Topic": ["Welcome to CS 181!"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
   "Extra Material": [{"slides":"/lectures/Firstlecture2022.pdf"}]
+},
+{
+  "Date": ["9/13/22"],
+  "Topic": ["Introduction to Alignment Algorithms"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a1ff293-5b2b-4a4a-bda1-af0f014e8a92"}],
+  "Extra Material": [{"slides":"/lectures/IntroToAlignment.ppt"}]
 }
 ]
 ---
