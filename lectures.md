@@ -9,12 +9,14 @@ links: []
 
 <!-- # {{ page.title }} -->
 
-### Notes
+### Class Notes
 
+The link to the ongoing class notes can be found [here](/lectures/CS1810_Class_Notes.pdf). 
+ 
+### Note taking sign-ups 
 The link to sign up for taking class notes is [here](https://docs.google.com/spreadsheets/d/1jRZym7Hdt963EoXKxf8VOxLkiTKqgnZtTSkKAKhlFxo/edit#gid=0). This is required for participation credit. 
-The link to submit your notes is [here](https://docs.google.com/forms/d/e/1FAIpQLSfyd-iRXC0L3YXgH2DSeQigo2bok12Otz6--Am4loeyn7-3VQ/viewform). 
+The link to submit your notes is [here](https://docs.google.com/forms/d/e/1FAIpQLSfyd-iRXC0L3YXgH2DSeQigo2bok12Otz6--Am4loeyn7-3VQ/viewform).
 
-The link to the class notes file will be here shortly.
 
 ### Videos
 
