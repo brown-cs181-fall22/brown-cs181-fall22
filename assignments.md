@@ -1,6 +1,6 @@
 ---
 title: Assignments
-windowTitle: ASSIGNMMENTS
+windowTitle: ASSIGNMENTS
 layout: default
 icon: assignments_icon.png
 link_types: []
