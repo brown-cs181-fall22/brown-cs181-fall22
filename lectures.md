@@ -11,7 +11,7 @@ links: []
 
 ### Class Notes
 
-View the class notes [here](/lectures/CS1810_Class_Notes.pdf). 
+The link to the ongoing class notes can be found [here](/lectures/CS1810_Class_Notes.pdf). 
 
 ### Note Sign-up
 
