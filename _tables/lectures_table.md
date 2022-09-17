@@ -13,11 +13,6 @@ contents: [
   "Topic": ["Introduction to Alignment Algorithms"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a1ff293-5b2b-4a4a-bda1-af0f014e8a92"}],
   "Extra Material": [{"slides":"/lectures/IntroToAlignment.ppt"}]
-},
-{
-  "Date": ["9/15/22"],
-  "Topic": ["Global Alignment"],
-  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9557b6ea-4a5e-4bde-a1ef-af090116a7b6"}]
 }
 ]
 ---
