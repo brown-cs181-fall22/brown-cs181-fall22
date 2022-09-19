@@ -1,7 +1,7 @@
 ---
 layout: default
-title: RESOURCES
-windowTitle: Resources
+title: Resources
+windowTitle: RESOURCES
 icon: resources_icon.png
 link_types: []
 links: []
