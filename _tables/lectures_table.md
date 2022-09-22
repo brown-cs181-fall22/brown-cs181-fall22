@@ -21,7 +21,7 @@ contents: [
 },
 {
   "Date": ["9/20/22"],
-  "Topic": ["Needleman-Wunsch algorithm and BLOSUM Matrices"],
+  "Topic": ["Needleman-Wunsch Algorithm and BLOSUM Matrices"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80bbcf2c-965a-4e47-8ce5-af090116a7d9"}]
 }
 ]
