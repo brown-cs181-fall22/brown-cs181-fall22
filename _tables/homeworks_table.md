@@ -12,9 +12,10 @@ contents: [
     "In" : ["9/29/22"]
    },
    {
-    "Homework" : ["Homework 2: Alignment"],
+    "Homework" : ["Homework 2: Alignment": "assignments/CS1810_HW2_2022.pdf"],
     "Out" : ["9/30/22"],
-    "In" : ["10/6/22"]
+    "In" : ["10/6/22"],
+    "Support Files": [{"files":"assignments/zipped_files/hw2_support.zip"}]
    },
    {
     "Homework" : ["Homework 3: KMP and DFAs"],
