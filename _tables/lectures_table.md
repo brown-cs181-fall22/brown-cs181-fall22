@@ -23,6 +23,22 @@ contents: [
   "Date": ["9/20/22"],
   "Topic": ["Needleman-Wunsch Algorithm and BLOSUM Matrices"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80bbcf2c-965a-4e47-8ce5-af090116a7d9"}]
+},
+{
+  "Date": ["9/22/22"],
+  "Topic": ["Local Alignment"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=586ebaf1-7a23-487c-9661-af090116a80b"}]
+},
+{
+  "Date": ["9/27/22"],
+  "Topic": ["Introduction to Affine Gap Alignment"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=026e782f-b3ad-42c5-9f29-af090116a82b"}]
+},
+{
+  "Date": ["9/29/22"],
+  "Topic": ["Affine Gap Alignment Algorithm"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7dab1ea5-844d-4655-afdc-af090116a854"}],
+  "Extra Material": [{"slides":"lectures/AffineGapAlignment.pdf"}]
 }
 ]
 ---
