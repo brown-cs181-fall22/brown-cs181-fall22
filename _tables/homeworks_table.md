@@ -19,8 +19,8 @@ contents: [
    },
    {
     "Homework" : ["Homework 3: KMP and DFAs"],
-    "Out" : ["10/14/22"],
-    "In" : ["10/20/22"]
+    "Out" : ["10/21/22"],
+    "In" : ["10/27/22"]
    },
    {
     "Homework" : ["Homework 4: Suffix Trees and Phylogeny"],
