@@ -15,8 +15,8 @@ contents: [
    },
    {
     "Project" : ["Project 2: Pattern Matching"],
-    "Out" : ["10/14/22"],
-    "In" : ["10/27/22"]
+    "Out" : ["10/21/22"],
+    "In" : ["11/3/22"]
    },
    {
     "Project" : ["Project 3: Phylogeny"],
