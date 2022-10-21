@@ -18,7 +18,7 @@ contents: [
     "Support Files": [{"files":"assignments/zipped_files/hw2_support.zip"}]
    },
    {
-    "Homework" : ["Homework 3: KMP and DFAs"],
+    "Homework" : ["Homework 3: KMP and DFAs": "assignments/CS1810_HW3_2022.pdf"],
     "Out" : ["10/21/22"],
     "In" : ["10/27/22"]
    },
