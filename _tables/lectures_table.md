@@ -39,6 +39,36 @@ contents: [
   "Topic": ["Affine Gap Alignment Algorithm"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7dab1ea5-844d-4655-afdc-af090116a854"}],
   "Extra Material": [{"slides":"lectures/AffineGapAlignment.pdf"}]
+},
+{
+  "Date": ["10/4/22"],
+  "Topic": ["Sequence Alignment + Graph Theory"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=560512a8-a005-46a1-adc7-af090116a873"}],
+  "Extra Material": []
+},
+{
+  "Date": ["10/6/22"],
+  "Topic": ["Topological Sort and Intro to Pattern Matching"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc99d2b1-c0bb-4701-84ad-af090116a895"}],
+  "Extra Material": []
+},
+{
+  "Date": ["10/11/22"],
+  "Topic": ["Finite Automata and Knuth-Morris-Pratt Algorithm"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bcba413-f226-4518-bd15-af090116a8b5"}],
+  "Extra Material": []
+},
+{
+  "Date": ["10/13/22"],
+  "Topic": ["No Lecture today"],
+  "Video": [],
+  "Extra Material": []
+},
+{
+  "Date": ["10/18/22"],
+  "Topic": ["Knuth-Morris-Pratt Algorithm"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=917d8cc1-e8a8-4bf8-a5df-af090116a8ff"}],
+  "Extra Material": []
 }
 ]
 ---
