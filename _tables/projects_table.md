@@ -16,7 +16,7 @@ contents: [
    {
     "Project" : ["Project 2: Pattern Matching": "assignments/CS1810_PR2_2022.pdf"],
     "Out" : ["10/21/22"],
-    "In" : ["11/3/22"], 
+    "In" : ["11/4/22"], 
     "Support Files" : [{"files": "assignments/zipped_files/pr2_pattern_matching_2022.zip"}]
    },
    {
