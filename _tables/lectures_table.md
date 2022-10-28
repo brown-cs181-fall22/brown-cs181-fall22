@@ -54,7 +54,7 @@ contents: [
 },
 {
   "Date": ["10/11/22"],
-  "Topic": ["Finite Automata and Knuth-Morris-Pratt Algorithm"],
+  "Topic": ["Finite Automata and Knuth-Morris-Pratt (KMP) Algorithm"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9bcba413-f226-4518-bd15-af090116a8b5"}],
   "Extra Material": []
 },
@@ -66,9 +66,27 @@ contents: [
 },
 {
   "Date": ["10/18/22"],
-  "Topic": ["Knuth-Morris-Pratt Algorithm"],
+  "Topic": ["KMP continued, Nondeterministic Finite Automata"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=917d8cc1-e8a8-4bf8-a5df-af090116a8ff"}],
   "Extra Material": []
+},
+{
+  "Date": ["10/20/22"],
+  "Topic": ["Failure Functions and Deterministic Finite Automata"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dbee38b5-9834-4325-981d-af090116a929"}],
+  "Extra Material": []
+},
+{
+  "Date": ["10/25/22"],
+  "Topic": ["Failure Function Algorithm"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ac12049-135e-4906-baef-af090116a952"}],
+  "Extra Material": []
+},
+{
+  "Date": ["10/27/22"],
+  "Topic": ["Knuth-Morris-Pratt Algorithm"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bcc06103-f1fa-4e97-b05f-af090116a973"}],
+  "Extra Material": [{"KMP slides":"lectures/KMPAlgorithm.pdf"}, {"failure function slides":"lectures/FailureFunctionAlgorithm.pdf"}]
 }
 ]
 ---

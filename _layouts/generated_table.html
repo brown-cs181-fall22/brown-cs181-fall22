@@ -30,13 +30,13 @@
       	  {% endif %}
           <br>
         {% else %}
-        <ul><li>
+        <div>
       	  {% if k %}
       	  <a href="{{i[k] | relative_url}}">{{k}}</a>
       	  {% else %}
       	  {{ i }}
       	  {% endif %}
-        </li></ul>
+        </div>
         {% endif %}
       	{% endfor %}
       {% endif %}
