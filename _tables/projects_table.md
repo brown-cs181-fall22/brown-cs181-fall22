@@ -21,8 +21,8 @@ contents: [
    },
    {
     "Project" : ["Project 3: Phylogeny"],
-    "Out" : ["11/4/22"],
-    "In" : ["11/17/22"]
+    "Out" : ["11/16/22"],
+    "In" : ["12/01/22"]
    },
    {
     "Project" : ["Project 4: Hidden Markov Models"],

@@ -24,8 +24,8 @@ contents: [
    },
    {
     "Homework" : ["Homework 4: Suffix Trees and Phylogeny"],
-    "Out" : ["11/4/22"],
-    "In" : ["11/10/22"]
+    "Out" : ["11/16/22"],
+    "In" : ["11/22/22"]
    },
    {
     "Homework" : ["Homework 5: Hidden Markov Models"],
