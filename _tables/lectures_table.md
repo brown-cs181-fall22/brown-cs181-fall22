@@ -87,6 +87,24 @@ contents: [
   "Topic": ["Knuth-Morris-Pratt Algorithm"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bcc06103-f1fa-4e97-b05f-af090116a973"}],
   "Extra Material": [{"KMP slides":"lectures/KMPAlgorithm.pdf"}, {"failure function slides":"lectures/FailureFunctionAlgorithm.pdf"}]
+}, 
+{
+  "Date": ["11/1/22"],
+  "Topic": ["Suffix Trees"], 
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ede4331-0888-4b96-8713-af090116a996"}]
+},
+{
+  "Date": ["11/1/22"],
+  "Topic": ["Suffix Trees"], 
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ede4331-0888-4b96-8713-af090116a996"}]
+},
+{
+  "Date": ["11/3/22"],
+  "Topic": ["No Lecture (Midterm)"], 
+},
+{
+  "Date": ["11/8/22"],
+  "Topic": ["No Lecture (Election Day)"], 
 }
 ]
 ---
