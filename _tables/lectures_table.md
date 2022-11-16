@@ -115,7 +115,6 @@ contents: [
   "Date": ["11/15/22"],
   "Topic": ["UPGMA Algorithm"], 
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7ab27fc-1531-4cbf-8dc0-af090116aa33"}]
-}, 
-
+},
 ]
 ---
