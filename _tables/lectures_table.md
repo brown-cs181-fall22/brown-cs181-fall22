@@ -105,6 +105,17 @@ contents: [
 {
   "Date": ["11/8/22"],
   "Topic": ["No Lecture (Election Day)"], 
-}
+},
+{
+  "Date": ["11/10/22"],
+  "Topic": ["Phylogenetic Trees"], 
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f69e1d38-6d18-4fb3-bca6-af090116aa02"}]
+}, 
+{
+  "Date": ["11/15/22"],
+  "Topic": ["UPGMA Algorithm"], 
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7ab27fc-1531-4cbf-8dc0-af090116aa33"}]
+}, 
+
 ]
 ---
