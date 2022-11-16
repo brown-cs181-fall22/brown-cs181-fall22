@@ -109,7 +109,8 @@ contents: [
 {
   "Date": ["11/10/22"],
   "Topic": ["Phylogenetic Trees"], 
-  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f69e1d38-6d18-4fb3-bca6-af090116aa02"}]
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f69e1d38-6d18-4fb3-bca6-af090116aa02"}],
+  "Extra Material": [{"slides":"/lectures/Phylogeny.pdf"}]
 }, 
 {
   "Date": ["11/15/22"],
