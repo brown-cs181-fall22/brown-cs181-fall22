@@ -20,9 +20,10 @@ contents: [
     "Support Files" : [{"files": "assignments/zipped_files/pr2_pattern_matching_2022.zip"}]
    },
    {
-    "Project" : ["Project 3: Phylogeny"],
+    "Project" : ["Project 3: Phylogeny": "assignments/CS1810_PR3_2022.pdf"],
     "Out" : ["11/16/22"],
-    "In" : ["12/01/22"]
+    "In" : ["12/02/22"]
+    "Support Files" : [{"files": "assignments/zipped_files/pr3_phylogeny.zip"}]
    },
    {
     "Project" : ["Project 4: Hidden Markov Models"],
