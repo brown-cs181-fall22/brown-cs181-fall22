@@ -26,9 +26,10 @@ contents: [
     "Support Files" : [{"files": "assignments/zipped_files/pr3_phylogeny.zip"}]
    },
    {
-    "Project" : ["Project 4: Hidden Markov Models"],
+    "Project" : ["Project 4: Hidden Markov Models": "assignments/CS1810_PR4_2022.pdf"],
     "Out" : ["11/28/22"],
-    "In" : ["12/12/22"]
+    "In" : ["12/12/22"],
+    "Support Files" : [{"files": "assignments/zipped_files/pr4_hmm_2022.zip"}]
    }
 ]
 ---
