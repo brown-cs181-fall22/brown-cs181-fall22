@@ -132,5 +132,11 @@ contents: [
   "Topic": ["Hidden Markov Models"], 
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7ab27fc-1531-4cbf-8dc0-af090116aa33"}]
 }
+{
+  "Date": ["12/1/22"],
+  "Topic": ["Hidden Markov Models - Viterbi"], 
+  "Video": [{"video":"will be updated later, sorry, go to panopto.com"}], 
+  "Extra Material": [{"Viterbi slides":"lectures/Viterbi Algorithm.pdf"}]
+}
 ]
 ---
