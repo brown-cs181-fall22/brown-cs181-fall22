@@ -135,8 +135,19 @@ contents: [
 {
   "Date": ["12/1/22"],
   "Topic": ["Hidden Markov Models - Viterbi"], 
-  "Video": [{"video":"will be updated later, sorry, go to panopto.com"}], 
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ed52e5b-ee9b-4932-9d96-af090116aac5"}], 
   "Extra Material": [{"Viterbi slides":"lectures/Viterbi Algorithm.pdf"}]
+},
+{
+  "Date": ["12/6/22"],
+  "Topic": ["Viterbi, Genome Assembly"], 
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d91c223b-046b-4334-98da-af090116aae3"}], 
+},
+{
+  "Date": ["12/8/22"],
+  "Topic": ["Burrows-Wheeler Transform, Regulatory Genomics, Genomic Privacy"], 
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=049f907a-2505-44cd-a6ab-af090116ab0d"}], 
+  "Extra Material": [{"Burrows-Wheeler Slides":"lectures/BW_Results_Algorithm.pptx"}, {"Genome Assembly Slides": "lectures/Genome_Assembly_Slides.ppt"}, {"Human Genome Paper":"lectures/Human_Genome_Paper.pdf"},{"Whole Genome Assembly Paper":"lectures/Whole_Genome_Comparison_Paper.pdf"}]
 }
 ]
 ---
